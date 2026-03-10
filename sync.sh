@@ -2,8 +2,8 @@
 # 將 Personal_Note 中的指定資料夾同步到 Quartz content/
 # 用法：./sync.sh
 
-PERSONAL_NOTE="/Users/kk/projects/Personal_Note"
-CONTENT="/Users/kk/projects/quartz-notes/content"
+PERSONAL_NOTE="../Personal_Note"
+CONTENT="./content"
 
 echo "同步 2026 家族旅遊..."
 rsync -av --delete --include="*/" --include="*.md" --exclude="*" \
