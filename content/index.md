@@ -2,10 +2,8 @@
 title: KK's Notes
 ---
 
-# 歡迎來到 KK 的筆記本
+# KK's Notes
 
-這是一個使用 [Quartz](https://quartz.jzhao.xyz/) 建置的個人筆記網站。
+## 專案
 
-## 測試頁面
-
-- [[test]] - 第一個測試頁面
+- [[2026家族旅遊/旅遊規劃總覽|2026 家族旅遊]]
